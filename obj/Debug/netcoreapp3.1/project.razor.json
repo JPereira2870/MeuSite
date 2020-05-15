@@ -20536,8 +20536,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\Python.cshtml",
+      "TargetPath": "Views\\Certificados\\Python.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\CSS.cshtml",
+      "TargetPath": "Views\\Certificados\\CSS.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20563,6 +20573,16 @@
     {
       "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\Scrum.cshtml",
+      "TargetPath": "Views\\Certificados\\Scrum.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\HTML.cshtml",
+      "TargetPath": "Views\\Certificados\\HTML.cshtml",
       "FileKind": "mvc"
     },
     {

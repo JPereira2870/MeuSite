@@ -1,4 +1,11 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿// When the user clicks on <div>, open the popup
+function funcaoTele() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
 
-// Write your JavaScript code.
+function funcaoPop() {
+    var popup1 = document.getElementById("myPopup1");
+    popup1.classList.toggle("show");
+}
+

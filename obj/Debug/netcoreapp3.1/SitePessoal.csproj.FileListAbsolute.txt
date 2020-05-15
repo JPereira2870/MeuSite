@@ -39,3 +39,7 @@ C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\SitePessoal.dll
 C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\SitePessoal.pdb
 C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\SitePessoal.genruntimeconfig.cache
 C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\SitePessoal.csproj.CopyComplete
+C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\Razor\Views\Certificados\CSS.cshtml.g.cs
+C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\Razor\Views\Certificados\HTML.cshtml.g.cs
+C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\Razor\Views\Certificados\Python.cshtml.g.cs
+C:\Users\jpgbp\Desktop\SitePessoal\obj\Debug\netcoreapp3.1\Razor\Views\Certificados\Scrum.cshtml.g.cs
