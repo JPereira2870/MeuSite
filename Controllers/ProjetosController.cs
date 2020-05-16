@@ -18,17 +18,17 @@ namespace SitePessoal.Controllers
             _logger = logger;
         }
 
-        public IActionResult Da2()
+        public IActionResult _7passos()
         {
             return View();
         }
 
-        public IActionResult Da1()
+        public IActionResult WesterosFit()
         {
             return View();
         }
 
-        public IActionResult Outsystems()
+        public IActionResult EasyGrocery()
         {
             return View();
         }

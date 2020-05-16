@@ -28,6 +28,7 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
+  scroll-behavior: smooth;
 }
 @media (min-width: 768px) {
   html {
@@ -74,7 +75,7 @@ body {
   width: auto;
   max-width: 100%;
   border-radius: 50%;
-  border-width: 3px;
+  border-width: 5px;
   border-style: solid;
   border-color: white;
 }
@@ -106,7 +107,7 @@ body {
 a.button1{
   display:inline-block;
   padding:0.35em 1.2em;
-  border:0.1em solid #FFFFFF;
+  border:0.2em solid #FFFFFF;
   margin:0 0.3em 0.3em 0;
   border-radius:0.12em;
   box-sizing: border-box;

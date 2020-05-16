@@ -20536,8 +20536,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\Python.cshtml",
-      "TargetPath": "Views\\Certificados\\Python.cshtml",
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\WesterosFit.cshtml",
+      "TargetPath": "Views\\Projetos\\WesterosFit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\EasyGrocery.cshtml",
+      "TargetPath": "Views\\Projetos\\EasyGrocery.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\_7passos.cshtml",
+      "TargetPath": "Views\\Projetos\\_7passos.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,18 +20556,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\CSS.cshtml",
-      "TargetPath": "Views\\Certificados\\CSS.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Home\\SobreMim.cshtml",
       "TargetPath": "Views\\Home\\SobreMim.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\Outsystems.cshtml",
-      "TargetPath": "Views\\Projetos\\Outsystems.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20566,28 +20566,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\Da1.cshtml",
-      "TargetPath": "Views\\Projetos\\Da1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\Scrum.cshtml",
-      "TargetPath": "Views\\Certificados\\Scrum.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Certificados\\HTML.cshtml",
-      "TargetPath": "Views\\Certificados\\HTML.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\jpgbp\\Desktop\\SitePessoal\\Views\\Projetos\\Da2.cshtml",
-      "TargetPath": "Views\\Projetos\\Da2.cshtml",
       "FileKind": "mvc"
     },
     {
